@@ -77,4 +77,3 @@ Juice it or Lose it
  * Eyes watch the ball
  * Smile, frown
  * Flash background
-
