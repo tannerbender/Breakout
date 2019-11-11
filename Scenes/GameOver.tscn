@@ -19,14 +19,6 @@ margin_bottom = 256.0
 text = "Game Over"
 align = 1
 
-[node name="Score" type="Label" parent="."]
-margin_left = 176.0
-margin_top = 224.0
-margin_right = 848.0
-margin_bottom = 238.0
-text = "Your score was "
-align = 1
-
 [node name="Button" type="Button" parent="."]
 margin_left = 416.0
 margin_top = 256.0
