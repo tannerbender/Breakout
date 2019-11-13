@@ -1,2 +1,1 @@
-# Project-Template-Godot
-A generic template for a Godot project
+Within this project in Godot, our objective was to take our breakout game and make it jucier. In doing so we were supposed to add effects that would make the game more fun for the user to play. When you play the game you can see there is a new background and some effects to the tiles when they are hit. 

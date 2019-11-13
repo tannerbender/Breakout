@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/alien.wav-e65ec6f2dd221a8b84e6ecbe56b18cd4.sample"
+
+[deps]
+
+source_file="res://Assets/alien.wav"
+dest_files=[ "res://.import/alien.wav-e65ec6f2dd221a8b84e6ecbe56b18cd4.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0
